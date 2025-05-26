@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from services.drive_service import list_recipe_folders
+from ..services.drive_service import list_recipe_folders
 
 router = APIRouter()
 

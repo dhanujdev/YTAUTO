@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from routes import drive
+from .routes import drive
 
 app = FastAPI()
 
