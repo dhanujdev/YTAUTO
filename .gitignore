@@ -117,6 +117,8 @@ dmypy.json
 backend/.env
 backend/client_secret.json
 backend/token.pickle # For storing YouTube API tokens
+backend/token.json # For storing YouTube API tokens explicitly
+backend/get_google_token.py # Script to generate token.json
 
 # IDE specific files
 .idea/
