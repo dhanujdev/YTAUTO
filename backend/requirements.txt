@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+
+# Google APIs
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Gemini API (assuming official library exists, adjust if needed)
+# google-generativeai 
+
+# For video processing (if using ffmpeg-python)
+# ffmpeg-python
+
+# Other utilities
+# pydantic
